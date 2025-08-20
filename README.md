@@ -1,5 +1,4 @@
 🩸 SejaDoador
-📌 Descrição
 
 SejaDoador é um sistema desenvolvido em Java com Spring Boot que tem como objetivo facilitar o agendamento de doações de sangue.
 A aplicação permite que usuários realizem cadastro, login, agendamento e cancelamento de horários em hemocentros parceiros.
